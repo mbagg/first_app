@@ -1,0 +1,7 @@
+
+
+Started GET "/rails/info/properties" for 12.13.14.15 at 2011-02-16 21:10:06 -0800
+  Processing by Rails::InfoController#properties as HTML
+  [1m[36mSQL (0.4ms)[0m  [1mSHOW TABLES[0m
+Rendered inline template (0.4ms)
+Completed 200 OK in 26ms (Views: 1.1ms | ActiveRecord: 0.4ms)
